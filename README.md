@@ -1,1 +1,3 @@
 # Wordle
+NGUYỄN VIỆT KHÁNH 
+MSV: 21020521
